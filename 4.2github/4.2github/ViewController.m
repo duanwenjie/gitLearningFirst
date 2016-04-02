@@ -23,6 +23,10 @@
     
     
     NSLog(@"我是小王  我要当经理");
+    NSLog(@"你个兔崽子");
+    
+    
+    NSLog(@"水电费和借口借口借口了地方经济倒计时");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
